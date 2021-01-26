@@ -1,0 +1,16 @@
+{
+  "name": "json-webtoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
